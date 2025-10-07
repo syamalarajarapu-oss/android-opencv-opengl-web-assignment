@@ -38,5 +38,3 @@ android-opencv-opengl-assignment/
 5. Build and run on an Android device with USB debugging enabled.  
 6. Place sample processed images into `/web` to preview the web viewer.
 
----
-Author: Gurram Gowthami
