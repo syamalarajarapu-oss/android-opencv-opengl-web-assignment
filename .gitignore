@@ -1,0 +1,15 @@
+
+# Gradle and Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+
+# Mac / VSCode
+.DS_Store
+.vscode/
+
+# NDK
+obj/
+.cxx/
